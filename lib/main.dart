@@ -4,7 +4,7 @@ void main() {
   runApp(
     MaterialApp(
       home: (Scaffold(
-        body: Text("Hello world!"),
+        body: Center(child: Text("Hello world!")),
       )),
     ),
   );
