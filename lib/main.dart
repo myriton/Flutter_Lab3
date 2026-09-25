@@ -5,6 +5,7 @@ void main() {
     MaterialApp(
       debugShowCheckedModeBanner: false,
       home: (Scaffold(
+        backgroundColor: Colors.green,
         body: Center(child: Text("Hello world!")),
       )),
     ),
