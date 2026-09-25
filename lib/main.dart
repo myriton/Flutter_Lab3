@@ -18,7 +18,13 @@ void main() {
             ), // LinearGradient
           ), // BoxDecoration
           child: Center(
-            child: Text("Hello world!"),
+            child: Text(
+              "Hello world!",
+              style: TextStyle(
+                color: Colors.white,
+                fontSize: 32,
+              )
+            ),
           ), // Center
         ), // Container
       ), // Scaffold
