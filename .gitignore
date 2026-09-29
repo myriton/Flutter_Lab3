@@ -46,3 +46,17 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+<<<<<<< HEAD
+=======
+# Платформы, которые не используем в данной работе
+android/
+ios/
+linux/
+macos/
+windows/
+# IDE и системные файлы
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+>>>>>>> d483e2023087de26a4c44e368599fd1519877de2

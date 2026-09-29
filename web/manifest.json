@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "hello_student",
     "short_name": "hello_student",
+=======
+    "name": "first_flutter_app",
+    "short_name": "first_flutter_app",
+>>>>>>> d483e2023087de26a4c44e368599fd1519877de2
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
